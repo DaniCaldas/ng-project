@@ -1,0 +1,28 @@
+.container{
+    align-items: center;
+    margin:0 auto;
+    justify-content: center;
+}
+.template-cadastro{
+    margin-top: 70px;
+    width: 24em;
+    height: 25em;
+    background-color: #6024A4;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    row-gap: 20px;
+    display: flex;
+    font-family: 'roboto';
+    border-radius: 7px;
+}
+.template-cadastro h1{
+    margin-top: 50px;
+}
+.template-items{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    row-gap: 20px;
+}

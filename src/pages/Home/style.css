@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'roboto';
+    src: url('../../fonts/Roboto-Medium.ttf');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'roboto';
+}
+
+.navbar{
+    color: #F8F4E3;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #6B28B8;
+    height: 8vh;
+    align-items: center;
+}
+
+.services{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 3em;
+}
